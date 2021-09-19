@@ -32,4 +32,3 @@
   <img align="center" alt="Cabral-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 </div>
 
-![Snake animation](https://github.com/rogerCabral91/rogerCabral91/blob/output/github-contribution-grid-snake.svg)
