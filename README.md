@@ -7,8 +7,8 @@
 
 <div class="row">
   <a href="https://github.com/rogerCabral91">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=rogerCabral91&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerCabral91&layout=compact&langs_count=16&theme=merko" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rogerCabral91&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerCabral91&layout=compact&langs_count=16&theme=merko" />
 </div>
 
 <div>
