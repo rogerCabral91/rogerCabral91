@@ -1,12 +1,14 @@
 ## Hi, I'm Roger Cabral!
 
-- 🔭 I’m currently working on fron-end
+- 🔭 I'm currently working at <a href="https://www.somosiris.com/">Iris</a> as a front-end developer
 - 🌱 I’m currently learning PHP, JS and Python
+- 📝 I'm currently graduating in Systems for internet
+- 💬 Ask me about JavaScript, HTML, CSS
 - 📫 How to reach me: roger_cabral@hotmail.com
 - 😄 Pronouns: he/his
 
 <div>
-  <a href="https://github.com/rogerCabral91">
+  <a href="https://www.linkedin.com/in/rogercabral91/">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=rogerCabral91&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerCabral91&layout=compact&langs_count=16&theme=merko" />
 </div>
