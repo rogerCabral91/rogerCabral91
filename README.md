@@ -5,10 +5,10 @@
 - 📫 How to reach me: roger_cabral@hotmail.com
 - 😄 Pronouns: he/his
 
-<div class="row">
+<div>
   <a href="https://github.com/rogerCabral91">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogerCabral91&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerCabral91&layout=compact&langs_count=16&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerCabral91&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerCabral91&layout=compact&langs_count=16&theme=merko" />
 </div>
 
 <div>
@@ -31,3 +31,5 @@
   <img align="center" alt="Cabral-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Cabral-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 </div>
+
+![Snake animation](https://github.com/rogerCabral91/rogerCabral91/blob/output/github-contribution-grid-snake.svg)
