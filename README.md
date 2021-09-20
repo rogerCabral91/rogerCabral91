@@ -7,13 +7,15 @@
 - 📫 How to reach me: roger_cabral@hotmail.com
 - 😄 Pronouns: he/his
 
-<div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rogerCabral91" alt="rogerCabral91" /> </p>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/rogercabral91/">
   <img src="https://github-readme-stats.vercel.app/api?username=rogerCabral91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerCabral91&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
-<div>
+<div align="center">
   <img align="center" alt="Cabral-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Cabral-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Cabral-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
