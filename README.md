@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rogercabral91/">
-  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rogerCabral91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerCabral91&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="59.5%" src="https://github-readme-stats.vercel.app/api?username=rogerCabral91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="29.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerCabral91&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
